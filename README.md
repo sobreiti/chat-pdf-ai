@@ -44,7 +44,7 @@ Follow the steps below to install and setup the project:
 2. **Navigate to the project directory**
 
    ```bash
-   cd chatpdf-yt
+   cd chat-pdf-ai
    ```
 
 3. **Install Node.js**
